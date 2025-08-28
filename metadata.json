@@ -1,0 +1,5 @@
+{
+  "name": "Casino Tester 888",
+  "description": "A Progressive Web App designed for security auditing of online casinos. This tool performs various client-side tests to identify potential vulnerabilities in a terminal-like interface.",
+  "requestFramePermissions": []
+}
